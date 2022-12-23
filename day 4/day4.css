@@ -1,0 +1,39 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background: goldenrod;
+    margin: 20px;
+    /* top = left =right =bottom=20px */
+    margin: 10px 20px;
+   /* top= bottom=10;*/
+   /*left=right=20*/
+   border: black solid 5px;
+   border: dotted 5px black;
+   border: dashed 5px black;
+}
+.box h3{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    border: 5px;
+}
+.box1{
+
+background: red;
+border: 5px dotted solid black;
+
+}
+.box2{
+    background: red;
+    margin-top: 30px;
+    margin-left: 40px;
+
+}
+.blue{
+    width: 200px;
+    height: 200px;
+    background:blue;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 1opx;
+}

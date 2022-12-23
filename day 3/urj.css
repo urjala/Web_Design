@@ -1,0 +1,42 @@
+
+        body{
+                margin:0;
+                padding:0;
+
+            }
+                    
+            
+            h1,h2,h3,h4,h5,h6,p,ul,li,ol,img,a{
+                margin:0;
+                padding:0;
+            }
+            h1{
+                font-size:42px;
+            }
+            p {
+                font-size:30px;
+                font-weight:bold;
+
+            }
+            .box ol{
+                font-size:20px;
+                font-weight:bold;
+                color:rgb(53, 53, 85);
+            }
+                      h1{
+                background-color:rgb(70, 67, 73);
+                text-align:center;
+                text-decoration:underline;
+                text-decoration-color: aquamarine;
+            }
+            .box{
+                width: 500px;
+                height:1000px;
+                background-image: url('max-anderson-vqj5A4C7v_A-unsplash.jpg');
+
+                text-align: center;
+background-size: contain;
+background-repeat: no-repeat;
+                
+            }
+    
